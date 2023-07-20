@@ -1,4 +1,4 @@
-# 30Projects-in-React1
+# 10Projects-in-React1
 
 This is a series which i have started to make One Project/One Day. 
 
